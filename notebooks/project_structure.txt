@@ -1,0 +1,2 @@
+latex-multidoc-project/
+latex-multidoc-project/main/
